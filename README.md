@@ -1,4 +1,4 @@
-## Amish S
+## Welcome to Amish S
 
 You can use the [editor on GitHub](https://github.com/brunmuska/brunmuska.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
