@@ -1,8 +1,9 @@
-## Welcome to Amish S
+## Welcome to Brun Muska
 
-You can use the [editor on GitHub](https://github.com/brunmuska/brunmuska.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Brun Muska is my favorite dish and symbolises the city where I started the dream. It was only apt to name my website as brun-muska. I am Amish S and this is an archive so that I don't lose most of my work. You bet this was written over some chai and brun muska or maybe I am a coffee person, welcome anyway human. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
@@ -11,10 +12,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Boring, but Important Stuff
+## Education
+## Publications
+###
 
+
+# C'est La Vie
+## Sport
 - Bulleted
 - List
 
