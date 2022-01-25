@@ -13,7 +13,7 @@ You can find that here: https://www.research.manchester.ac.uk/portal/amish.sarpo
 
 The prime purpose of this website is this. To write about how life happens. Where it happens. What is life? 
 
-This is a distraction ISHA!!!!!!!! LIFE is all about tharak!! HELP ME DESIGN MY WEBSITE
+# I LOVE YOU KARISHMA BANGA
 
 
 # Contact me
