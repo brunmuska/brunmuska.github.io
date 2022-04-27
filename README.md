@@ -1,6 +1,6 @@
 # Welcome to Brun Muska
 
-Brun Muska is my favorite dish and symbolises the city where I started the dream-no extra points for guessing the city. It was only apt to name my website as brun muska. I am Amish  and this is mostly an archive so that I don't lose most of my work. You bet this was written over some chai and brun muska or maybe I am a coffee person, welcome anyway. 
+Brun Muska is my favorite food and symbolises the city where I started the dream-no extra points for guessing the city. Over a cup of brunmuska, I started thinking. And its over many many more cups of brun muska-tea that I have thought most of what constitutes me. It was only apt to name my website as brun muska. I am Amish  and this is mostly an archive so that I don't lose most of my work. You bet this was written over some chai and brun muska or maybe I am a coffee person, welcome anyway. 
 
 
 
@@ -13,7 +13,8 @@ You can find that here: https://www.research.manchester.ac.uk/portal/amish.sarpo
 
 The prime purpose of this website is this. To write about how life happens. Where it happens. What is life? 
 
-# I LOVE YOU KARISHMA BANGA
+# Sports
+Once upon a time, I used to be a sports person
 
 
 # Contact me
